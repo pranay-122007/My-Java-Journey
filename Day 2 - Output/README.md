@@ -4,7 +4,7 @@
 - Understanding how line breaks and spacing affect output
 **Code Overview:** This program practices printing patterns using simple *println* statements. It helps visualize how Java handles output formatting.
 
-**Example Output:**
+Output:
 *
 **
 ***
