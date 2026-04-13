@@ -1,7 +1,6 @@
 💡#Understanding TypeCasting in java 
 
 **ADDITION OPERATOR -**
-
 An operator to add teo or more values - Using '+'
 
 **SUBTRACTION OPERATOR -**
