@@ -20,3 +20,24 @@ Primitive types are predefined by the language and named by a reserved keyword. 
 | **double** | 64-bit | `0.0d` | Stores fractional numbers (15 decimal digits) | 
 | **boolean** | 1-bit* | `false` | Stores true or false values |
 | **char** | 16-bit | `'\u0000'` | Stores a single character/letter or ASCII values |
+
+⚠️NOTE: The size of a boolean isn't precisely defined by the Java Virtual Machine (JVM) specification, but it's typically treaded as 1 byte in most environment.
+
+**2. Non- Primitive Data Types**
+
+Non-Primitive types refer to objects and are called Reference Types because they store the memory address (reference) of the variable, rather than the values itself.
+ -String: A sequence of characters (e.g., String name = "I am the best";).
+ -Arrays: Store multiple values of the same type in a single variable (e.g., int[] numbers = {1,2,3};).
+ -Classes: User-defined blueprints for objects.
+ -Interfaces: abstract types used to achieve abstraction and multiple inheritance.
+
+ **🔁 Camparison Table**
+
+
+ | Feature | Primitive Taupes | Non-Primitive Types |
+ |:--- |:--- |:--- |
+ | **Definition** | Predefined in Java | Created by the programmer (except String) |
+ | **Value** | Always has a value (never null) | Can be null |
+ | **Memory** | Stored in Stack memory | Stored in Heap memory |
+ | **Methods** | Cannot be used to call methods | Can be used to call methods to preform operation |
+ | **Nameing** | start with lowercase (e.g., int) | Start with uppercase (e.g., String) |
