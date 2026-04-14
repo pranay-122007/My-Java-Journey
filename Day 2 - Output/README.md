@@ -1,4 +1,4 @@
-**Day 2: Understanding Output in Java Concepts Covered:**
+### Day 2: Understanding Output in Java Concepts Covered:
 - Using *System.out.println()* for displaying output
 - Printing text and patterns on the console
 - Understanding how line breaks and spacing affect output
