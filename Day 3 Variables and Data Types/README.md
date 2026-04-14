@@ -1,4 +1,4 @@
-**Day 3 — Variables and Data Types**
+### Day 3 — Variables and Data Types
 
 Explored how variables and data types work in Java. Learned how to define variables, assign values, and display outputs using different data types. 
 Also practiced taking inputs using the Scanner class and understanding how data types determine the kind of values a variable can store.
