@@ -1,7 +1,7 @@
 ### Day 4 - Arithmetic Operators
 
 Arithmetic opeerators are used to perform basic mathematical operators
--including addition, subtraction, multiplication, division, and modulo-on primitive numeric types.
+- including addition, subtraction, multiplication, division, and modulo-on primitive numeric types.
 
 **ADDITION OPERATOR -**
 
