@@ -1,4 +1,4 @@
-**Day 5 - Type Casting (Converting double to int and vice versa)**
+### Day 5 - Type Casting (Converting double to int and vice versa)
 
 Typecasting is the process of converting a value from one primitive data type to another. 
 In Java, this is essential because it is a **statically-typed language**, meaning the type of a variable must be known at compike time.
