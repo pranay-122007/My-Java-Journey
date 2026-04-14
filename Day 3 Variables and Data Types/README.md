@@ -3,7 +3,7 @@
 Explored how variables and data types work in Java. Learned how to define variables, assign values, and display outputs using different data types. 
 Also practiced taking inputs using the Scanner class and understanding how data types determine the kind of values a variable can store.
 
-### Data Types 
+# Data Types 
 Java is a statically-typed language, which means all variables must first be declared before they can used. Data types in Java are categorized into two main groups:
 
 **1. Primitive Data types**
