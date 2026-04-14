@@ -2,19 +2,19 @@
 
 **ADDITION OPERATOR -**
 
-An operator to add teo or more values - Using '+'
+An operator to add teo or more values - Using `+`
 
 **SUBTRACTION OPERATOR -**
 
-An operator to subtract two or more values - Using '-'
+An operator to subtract two or more values - Using `-`
 
 **MULTIPLICATION OPERATOR -**
 
-An operator to multiply teo or more values - Using '*'
+An operator to multiply teo or more values - Using `*`
 
 **DIVISION OPERATOR -**
 
-An operator to divide two or more values - Using '/'
+An operator to divide two or more values - Using `/`
 
 NOTE:- 
 
@@ -24,4 +24,4 @@ NOTE:-
 
 **MODULO OPERATOR -**
 
-The modulo operator (%) returns the remainder of a division between two numbers - Using '%'
+The modulo operator (%) returns the remainder of a division between two numbers - Using `%`
