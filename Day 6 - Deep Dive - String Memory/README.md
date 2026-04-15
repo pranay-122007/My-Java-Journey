@@ -1,4 +1,4 @@
-# String Memory Management in Java
+# Day 6 - String Memory Management in Java
 
 In Java, `String` is an object, and its memory allocation is handled differently than primitive data types to optimize performance and memory usage.
 
