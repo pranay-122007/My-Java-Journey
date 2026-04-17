@@ -23,6 +23,7 @@ This repository isn’t just about learning syntax — it’s about mastering th
 | Day 8 | String Methods Part 2 | ⏳ Pending |
 | Day 9 | 
 | Day 10 |
+| **Phase 2** | **Logic & Control Flow** | |
 | Day 11 |
 | Day 12 |
 | Day 13 |
@@ -33,6 +34,7 @@ This repository isn’t just about learning syntax — it’s about mastering th
 | Day 18 |
 | Day 19 |
 | Day 20 |
+| **Phase 3** | **Data Structures & Methods**  | |
 | Day 21 |
 | Day 22 |
 | Day 23 |
@@ -43,6 +45,7 @@ This repository isn’t just about learning syntax — it’s about mastering th
 | Day 28 |
 | Day 29 |
 | Day 30 |
+| **Phase 4** | **Object-Oriented Programming** |
 | Day 31 |
 | Day 32 |
 | Day 33 |
