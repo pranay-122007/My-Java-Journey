@@ -23,7 +23,7 @@ This repository isn’t just about learning syntax — it’s about mastering th
 | Day 8 | String Methods Part 2 | ⏳ Pending |
 | Day 9 | StringBuilder vs String (Mutablity & Performance) | ⏳ Pending |
 | Day 10 | Project Day | ⏳ Pending |
-| **Phase 2** | **Logic & Control Flow**  |
+| **Phase 2** | **Logic & Control Flow**  | |
 | Day 11 | If-Else Statements (Basic Conditional Logic) | ⏳ Pending |
 | Day 12 | Logical Operators (&&, ||, !) & Ternary Operator | ⏳ Pending |
 | Day 13 | Switch Case (Menu-driven logic) | ⏳ Pending |
