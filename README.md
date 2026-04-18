@@ -6,7 +6,7 @@ This repository isn’t just about learning syntax — it’s about mastering th
 ## 🎯 The Goal
 - Build a daily coding habit.
 - Master Java syntax and OOPs concepts.
-- Maintain a **green streak** on my GitHub dashboard.
+- Maintain consistancy
 
 ## 📅 Roadmap & Progress
 
