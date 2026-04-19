@@ -46,7 +46,21 @@ This repository isn’t just about learning syntax — it’s about mastering th
 | Day 29 | Wrapper Classes | ⏳ Pending |
 | Day 30 | Project Day | ⏳ Pending |
 | **Phase 4** | **Object-Oriented Programming** |
-
+| Day 31 | Classes and Objects (The Blueprint vs. The Instance) | ⏳ Pending |
+| Day 32 | Constructors (Default vs. Parameterized) | ⏳ Pending |
+| Day 33 | The `this` keyword & Reference Variables | ⏳ Pending |
+| Day 34 | Access Modifiers (public, private, protected) | ⏳ Pending |
+| Day 35 | Encapsulation | ⏳ Pending |
+| Day 36 | Inheritance Basics (`extends` keyword) | ⏳ Pending |
+| Day 37 | The `super` keyword | ⏳ Pending |
+| Day 38 | Method Overriding | ⏳ Pending |
+| Day 39 | Abstraction (Abstract Classes) | ⏳ Pending |
+| Day 40 | Interfaces (Multiple behaviors/contracts) | ⏳ Pending |
+| Day 41 | The `final` keyword | ⏳ Pending |
+| Day 42 | Exception Handling Part 1 (`try-catch-finally`) | ⏳ Pending |
+| Day 43 | Exception Handling Part 2 (`throw vs throws`) | ⏳ Pending |
+| Day 44 | File Handling (Reading/Writing data to `.txt`) | ⏳ Pending |
+| Day 45 | Capstone Project | ⏳ Pending |
 
 ## 🛠️ Tech Stack
 - **Language:** Java
