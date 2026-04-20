@@ -18,7 +18,7 @@ This repository isn’t just about learning syntax — it’s about mastering th
 | Day 3 | Variables & Data Types + User Input (Scanner) | ✅ Completed |
 | Day 4 | Arithmetic Operators | ✅ Completed |
 | Day 5 | Type Casting | ✅ Completed |
-| Day 6 | String memory (String Constant Pool vs. Heap) | 🟢 In Progress |
+| Day 6 | String memory (String Constant Pool vs. Heap) | ✅ Completed |
 | Day 7 | String Methods Part 1 | ⏳ Pending |
 | Day 8 | String Methods Part 2 | ⏳ Pending |
 | Day 9 | StringBuilder vs String (Mutablity & Performance) | ⏳ Pending |
