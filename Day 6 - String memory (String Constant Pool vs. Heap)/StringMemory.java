@@ -1,11 +1,11 @@
 public class StringMemory {
     public static void main(String[] args) {
+        
         //case 1: Literals (SCP)
         String str1 = "OpenSource";
         String str2 = "OpenSource";
 
         // Case 2: New Keyword (Heap)
-    
         String str3 = new String("OpenSource");
 
         System.out.println("--- Memory Reference Test--- ");
