@@ -19,7 +19,7 @@ This repository isn’t just about learning syntax — it’s about mastering th
 | Day 4 | Arithmetic Operators | ✅ Completed |
 | Day 5 | Type Casting | ✅ Completed |
 | Day 6 | String memory (String Constant Pool vs. Heap) | ✅ Completed |
-| Day 7 | StringMethods Part 1 (String Manipulation & Indexing) | ⏳ Pending |
+| Day 7 | StringMethods Part 1 (String Manipulation & Indexing) | ✅ Completed |
 | Day 8 | StringMethods Part 2 (String Extraction and Sequence Validation) | ⏳ Pending |
 | Day 9 | StringBuilder vs String (Mutablity & Performance) | ⏳ Pending |
 | Day 10 | Project Day | ⏳ Pending |
