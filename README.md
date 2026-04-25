@@ -21,10 +21,10 @@ This repository isn’t just about learning syntax — it’s about mastering th
 | Day 6 | String memory (String Constant Pool vs. Heap) | ✅ Completed |
 | Day 7 | StringMethods Part 1 (String Manipulation & Indexing) | ✅ Completed |
 | Day 8 | StringMethods Part 2 (String Extraction and Sequence Validation) | ✅ Completed |
-| Day 9 | StringBuilder vs String (Mutablity & Performance) | ✅ Completed |
-| Day 10 | Project Day | ⏳ Pending |
+| Day 9 | StringBuilder vs String (Mutablity & Performance) |  |
+| Day 10 | Project Day | ✅ Completed |
 | **Phase 2** | **Logic & Control Flow**  | |
-| Day 11 | If-Else Statements (Basic Conditional Logic) | ⏳ Pending |
+| Day 11 | If-Else Statements (Basic Conditional Logic) | 🟢 Porccessing |
 | Day 12 | Logical Operators & Ternary Operator | ⏳ Pending |
 | Day 13 | Switch Case (Menu-driven logic) | ⏳ Pending |
 | Day 14 | The "Enhanced Switch" (Modern Java syntax) | ⏳ Pending |
