@@ -23,7 +23,7 @@ This repository isn’t just about learning syntax — it’s about mastering th
 | Day 8 | StringMethods Part 2 (String Extraction and Sequence Validation) | ✅ Completed |
 | Day 9 | StringBuilder vs String (Mutablity & Performance) |  |
 | Day 10 | Project Day | ✅ Completed |
-| **Phase 2** | **Logic & Control Flow**  | |
+| **Phase 2** | **Logic, Control Flow, Iteration Mastery**  | |
 | Day 11 | If-Else Statements (Basic Conditional Logic) | 🟢 Porccessing |
 | Day 12 | Logical Operators & Ternary Operator | ⏳ Pending |
 | Day 13 | Switch Case (Menu-driven logic) | ⏳ Pending |
