@@ -26,7 +26,7 @@ This repository isn’t just about learning syntax — it’s about mastering th
 | **Phase 2** | **Logic, Control Flow, Iteration Mastery**  | |
 | Day 11 | If-Else Statements (Basic Conditional Logic) | 🟢 Porccessing |
 | Day 12 | Logical Operators & Ternary Operator | ⏳ Pending |
-| Day 13 | Switch Case (Menu-driven logic) | ⏳ Pending |
+| Day 13 | Switch Case & the Modern "Enhanced Switch" (Java 14+) | ⏳ Pending |
 | Day 14 | The "Enhanced Switch" (Modern Java syntax) | ⏳ Pending |
 | Day 15 | While Loops | ⏳ Pending |
 | Day 16 | For Loops | ⏳ Pending |
