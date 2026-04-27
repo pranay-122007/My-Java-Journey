@@ -1,7 +1,7 @@
 ### Day 2: Understanding Output in Java Concepts Covered:
-- Using *System.out.println()* for displaying output
-- Printing text and patterns on the console
-- Understanding how line breaks and spacing affect output
+- Using *System.out.println()* for displaying output.
+- Printing text and patterns on the console.
+- Understanding how line breaks and spacing affect output.
 **Code Overview:** This program practices printing patterns using simple *println* statements. It helps visualize how Java handles output formatting.
 
 **Output:**
