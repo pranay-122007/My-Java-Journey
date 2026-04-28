@@ -4,7 +4,7 @@ public class ConditionalMastery {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // --- EXAMPLE 1: Basic If-Else (Age Check) ---
+        // EXAMPLE 1: Basic If-Else (Age Check) 
         System.out.print("Enter Age: ");
         int age = sc.nextInt();
 
@@ -14,7 +14,7 @@ public class ConditionalMastery {
             System.out.println("Result: Not an Adult");
         }
 
-        // --- EXAMPLE 2: Modulo Operator (Odd or Even) ---
+        // EXAMPLE 2: Modulo Operator (Odd or Even) 
         System.out.print("\nEnter a number to check Odd/Even: ");
         int num = sc.nextInt();
 
@@ -24,7 +24,7 @@ public class ConditionalMastery {
             System.out.println(num + " is Odd");
         }
 
-        // --- EXAMPLE 3: Else-If Ladder (Comparison) ---
+        // EXAMPLE 3: Else-If Ladder (Comparison) 
         System.out.print("\nEnter two numbers (a and b): ");
         int a = sc.nextInt();
         int b = sc.nextInt();
