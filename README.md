@@ -25,13 +25,13 @@ This repository isn’t just about learning syntax — it’s about mastering th
 | Day 10 | String Mutablity & StringBuilder + **Project day-01** | ✅ Completed |
 | **Phase 2** | **Logic, Control Flow, Iteration Mastery**  | |
 | Day 11 | If-Else Statements (Basic Conditional Logic) | ✅ Completed |
-| Day 12 | Logical Operators & Ternary Operator | ⏳ Pending |
-| Day 13 | Switch Case & the Modern "Enhanced Switch" (Java 14+) | ⏳ Pending |
-| Day 14 | The "Enhanced Switch" (Modern Java syntax) | ⏳ Pending |
-| Day 15 | While Loops | ⏳ Pending |
-| Day 16 | For Loops | ⏳ Pending |
-| Day 17 | Nested Loops (Understanding 2D execution) | ⏳ Pending |
-| Day 18 | Do-While Loops | ⏳ Pending |
+| Day 12 | Logical Operators & Ternary Operator | 🟢 Proccessing |
+| Day 13 | Switch Case & the Modern Java syntax "Enhanced Switch" (Java 14+) | ⏳ Pending |
+| Day 14 | For Loops: Basic syntax and increment logic. | ⏳ Pending |
+| Day 15 | While Loops vs Do-While Loops | ⏳ Pending |
+| Day 16 | Deep Dive: Nested Loops (Pattern Printing & Grids) | ⏳ Pending |
+| Day 17 | Loop Control: break and continue keywords. | ⏳ Pending |
+| Day 18 | Deep Dive: Memory Stack vs. Heap during loop execution | ⏳ Pending |
 | Day 19 | break vs continue (Loop Control flow) | ⏳ Pending |
 | Day 20 | Project Day | ⏳ Pending |
 | **Phase 3** | **Data Structures & Methods**  | |
