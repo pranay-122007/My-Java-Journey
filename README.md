@@ -25,7 +25,7 @@ This repository isn’t just about learning syntax — it’s about mastering th
 | Day 10 | String Mutablity & StringBuilder + **Project day-01** | ✅ Completed |
 | **Phase 2** | **Logic, Control Flow, Iteration Mastery**  | |
 | Day 11 | If-Else Statements (Basic Conditional Logic) | ✅ Completed |
-| Day 12 | Logical Operators & Ternary Operator | 🟢 Proccessing |
+| Day 12 | Logical Operators & Ternary Operator | 🟢 Proccessin |
 | Day 13 | Switch Case & the Modern Java syntax "Enhanced Switch" (Java 14+) | ⏳ Pending |
 | Day 14 | For Loops: Basic syntax and increment logic. | ⏳ Pending |
 | Day 15 | While Loops vs Do-While Loops | ⏳ Pending |
