@@ -29,7 +29,7 @@ This repository isn’t just about learning syntax — it’s about mastering th
 | Day 13 | Switch Case & the Modern Java syntax "Enhanced Switch" (Java 14+) | ✅ Completed |
 | Day 14 | For Loops: Basic syntax and increment logic. | ✅ Completed |
 | Day 15 | While Loops vs Do-While Loops | 🟢 Proccessing |
-| Day 16 | Deep Dive: Nested Loops (Pattern Printing & Grids) | ⏳ Pending |
+| Day 16 | Deep Dive: Nested Loops (Pattern Printing & Grids) | 🟢 Proccessing |
 | Day 17 | Loop Control: break and continue keywords. | ⏳ Pending |
 | Day 18 | Deep Dive: Memory Stack vs. Heap during loop execution | ⏳ Pending |
 | Day 19 | break vs continue (Loop Control flow) | ⏳ Pending |
