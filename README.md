@@ -28,7 +28,7 @@ This repository isn’t just about learning syntax — it’s about mastering th
 | Day 12 | Logical Operators & Ternary Operator | ✅ Completed |
 | Day 13 | Switch Case & the Modern Java syntax "Enhanced Switch" (Java 14+) | ✅ Completed |
 | Day 14 | For Loops: Basic syntax and increment logic. | ✅ Completed |
-| Day 15 | While Loops vs Do-While Loops | 🟢 Proccessing |
+| Day 15 | While Loops vs Do-While Loops | ✅ Completed |
 | Day 16 | Deep Dive: Nested Loops (Pattern Printing & Grids) | 🟢 Proccessing |
 | Day 17 | Loop Control: break and continue keywords. | ⏳ Pending |
 | Day 18 | Deep Dive: Memory Stack vs. Heap during loop execution | ⏳ Pending |
