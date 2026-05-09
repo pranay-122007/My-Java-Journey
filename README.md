@@ -26,7 +26,7 @@ This repository isn’t just about learning syntax — it’s about mastering th
 | **Phase 2** | **Logic, Control Flow, Iteration Mastery**  | |
 | Day 11 | If-Else Statements (Basic Conditional Logic) | ✅ Completed |
 | Day 12 | Logical Operators & Ternary Operator | 🟢 Proccessing |
-| Day 13 | Switch Case & the Modern Java syntax "Enhanced Switch" (Java 14+) | ⏳ Pending |
+| Day 13 | Switch Case & the Modern Java syntax "Enhanced Switch" (Java 14+) | 🟢 Proccessing |
 | Day 14 | For Loops: Basic syntax and increment logic. | ⏳ Pending |
 | Day 15 | While Loops vs Do-While Loops | ⏳ Pending |
 | Day 16 | Deep Dive: Nested Loops (Pattern Printing & Grids) | ⏳ Pending |
