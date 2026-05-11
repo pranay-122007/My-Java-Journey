@@ -25,15 +25,15 @@ This repository isn’t just about learning syntax — it’s about mastering th
 | Day 10 | String Mutablity & StringBuilder + **Project day-01** | ✅ Completed |
 | **Phase 2** | **Logic, Control Flow, Iteration Mastery**  | |
 | Day 11 | If-Else Statements (Basic Conditional Logic) | ✅ Completed |
-| Day 12 | Logical Operators & Ternary Operator | ✅ Completed |
-| Day 13 | Switch Case & the Modern Java syntax "Enhanced Switch" (Java 14+) | ✅ Completed |
-| Day 14 | For Loops: Basic syntax and increment logic. | 🟢 Proccessing |
-| Day 15 | While Loops vs Do-While Loops | ⏳ Pending |
-| Day 16 | Deep Dive: Nested Loops (Pattern Printing & Grids) | ⏳ Pending |
-| Day 17 | Loop Control: break and continue keywords. | ⏳ Pending |
-| Day 18 | Deep Dive: Memory Stack vs. Heap during loop execution | ⏳ Pending |
-| Day 19 | break vs continue (Loop Control flow) | ⏳ Pending |
-| Day 20 | Project Day | ⏳ Pending |
+| Day 12 | Logical Operators | ✅ Completed |
+| Day 13 | Ternary Operator | ✅ Completed |
+| Day 14 | Switch Case & the Modern Java syntax "Enhanced Switch" (Java 14+). | 🟢 Proccessing |
+| Day 15 | Introduction to Loops: The for Loop | ⏳ Pending |
+| Day 16 | The while Loop & do-while Loop | ⏳ Pending |
+| Day 17 | Deep Dive: Nested Loops (Pattern Printing & Grids) | ⏳ Pending |
+| Day 18 | Loop Control: break and continue | ⏳ Pending |
+| Day 19 | Mathematical Logic: Prime Numbers, Factorials, Fibonacci | ⏳ Pending |
+| Day 20 | Dry Run Mastery: Scope, Variable Shadowing, and Debugging + **Project Day** | ⏳ Pending |
 | **Phase 3** | **Data Structures & Methods**  | |
 | Day 21 | Introduction to Arrays | ⏳ Pending |
 | Day 22 | Array Traversal | ⏳ Pending |
