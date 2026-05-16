@@ -12,3 +12,9 @@
     ****
 
 **Learning Reflection:** To control output structure and spacing using print statements. It’s a foundational step toward understanding loops and pattern generation.
+
+    
+**Check**
+    *
+    **
+    ***
