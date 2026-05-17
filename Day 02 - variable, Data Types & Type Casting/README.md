@@ -1,9 +1,9 @@
-### Day 3 — Variables and Data Types
+# Day 02 — Variables, Data Types & Type Casting
 
 Explored how variables and data types work in Java. Learned how to define variables, assign values, and display outputs using different data types. 
 Also practiced taking inputs using the Scanner class and understanding how data types determine the kind of values a variable can store.
 
-# Data Types 
+## Data Types 
 Java is a statically-typed language, which means all variables must first be declared before they can used. Data types in Java are categorized into two main groups:
 
 **1. Primitive Data types**
@@ -26,13 +26,12 @@ Primitive types are predefined by the language and named by a reserved keyword. 
 **2. Non- Primitive Data Types**
 
 Non-Primitive types refer to objects and are called Reference Types because they store the memory address (reference) of the variable, rather than the values itself.
- -String: A sequence of characters (e.g., String name = "I am the best";).
- -Arrays: Store multiple values of the same type in a single variable (e.g., int[] numbers = {1,2,3};).
- -Classes: User-defined blueprints for objects.
- -Interfaces: abstract types used to achieve abstraction and multiple inheritance.
+-String: A sequence of characters (e.g., String name = "I am the best";).
+-Arrays: Store multiple values of the same type in a single variable (e.g., int[] numbers = {1,2,3};).
+-Classes: User-defined blueprints for objects.
+-Interfaces: abstract types used to achieve abstraction and multiple inheritance.
 
- **🔁 Camparison Table**
-
+**🔁 Camparison Table**
 
  | Feature | Primitive Taupes | Non-Primitive Types |
  |:--- |:--- |:--- |
@@ -41,3 +40,43 @@ Non-Primitive types refer to objects and are called Reference Types because they
  | **Memory** | Stored in Stack memory | Stored in Heap memory |
  | **Methods** | Cannot be used to call methods | Can be used to call methods to preform operation |
  | **Nameing** | start with lowercase (e.g., int) | Start with uppercase (e.g., String) |
+
+## Type Casting
+
+Typecasting is the process of converting a value from one primitive data type to another.
+Converting double to int and vice versa.
+In Java, this is essential because it is a **statically-typed language**, meaning the type of a variable must be known at compike time.
+
+**1. Widening (implicit) Casting**
+
+This is  *Automatic*  Proccess
+Widening casting happens when you pass a smaller type to a larger type size.
+Scince there is no risk of losing data, Java handles this automatically.
+
+**Hierarchy:**
+
+'byte' -> 'short' -> 'char' -> 'int' -> 'long' -> 'floot' -> 'double'
+
+**Example:**
+            
+    java
+    int myInt = 10
+    double myDouble = myInt //Automatic casting
+
+**2. Narrowing (explicit) Casting**
+
+This is  *Manuall* proccess 
+Narrowing casting must be done manually by placing the type in parentheses () in front of the value.
+This is used when converting a large type to a smaller size.
+    
+⚠️Note: Data loss can occur here (e.g., decimals are removed when converting double to int).
+
+**Hierarchy:**
+
+'double' -> 'float' -> 'long' -> 'int' -> 'char' -> 'short' -> 'byte'
+
+**Example**
+    
+    java
+    double myDouble = 10.85;
+    int myInt = (int) myDouble; // Manual casting: myInt bacomes 10
