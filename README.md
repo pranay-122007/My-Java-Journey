@@ -12,13 +12,13 @@ This repository isn’t just about learning syntax — it’s about mastering th
 
 | Day | Topic | Status |
 | :--- | :--- | :--- |
-| **Phase 1** | **The Core Foundations** | |
-| Day 1 | Hello World & Environment Setup | ✅ Completed |
-| Day 2 | Understanding Output | ✅ Completed |
-| Day 3 | Variables & Data Types + User Input (Scanner) | ✅ Completed |
-| Day 4 | Arithmetic Operators | ✅ Completed |
-| Day 5 | Type Casting | ✅ Completed |
-| Day 6 | String memory (String Constant Pool vs. Heap) | ✅ Completed |
+| **Phase 1** | **Foundation & Memory** | |
+| Day 1 | Introduction to Java & JVM Architecture | ✅ Completed |
+| Day 2 | Variables, Data Types & Type Casting | ✅ Completed |
+| Day 3 | Input/Output —— Scanner Class | ✅ Completed |
+| Day 4 | Arithmetic Operators & Expressions | ✅ Completed |
+| Day 5 | Memory Management —— Stack vs Heap | ✅ Completed |
+| Day 6 | String Basics & String Constant Pool (SCO) | ✅ Completed |
 | Day 7 | StringMethods Part 1 (String Manipulation & Indexing) | ✅ Completed |
 | Day 8 | StringMethods Part 2 (String Extraction and Sequence Validation) | ✅ Completed |
 | Day 9 | String Comparison Deep-Dive | ✅ Completed |
