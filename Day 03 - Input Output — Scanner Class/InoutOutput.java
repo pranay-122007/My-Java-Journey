@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class InoutOutput {
 
+    @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
 
         // Instantiate the scanner object linked to standard input
