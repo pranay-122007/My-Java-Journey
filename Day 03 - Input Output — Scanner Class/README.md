@@ -10,11 +10,11 @@ Java provides two primary methods for console output within the `System.out` pac
 
 It uses formate specifiers as placeholders for variables:
 ```
-◦ %d $\rightarrow$ Integers (int, long)
-◦ %f $\rightarrow$ Floating-point numbers (float, double)
-◦ %s $\rightarrow$ Strings
-◦ %c $\rightarrow$ Characters
-◦ \n $\rightarrow$ Newline character
+◦ %d → Integers (int, long)
+◦ %f → Floating-point numbers (float, double)
+◦ %s → Strings
+◦ %c → Characters
+◦ \n → Newline character
 ```
 Example:
 ```
