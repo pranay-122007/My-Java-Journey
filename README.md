@@ -18,8 +18,8 @@ This repository isn’t just about learning syntax — it’s about mastering th
 | Day 3 | Input/Output —— Scanner Class | ✅ Completed |
 | Day 4 | Arithmetic Operators & Expressions | ✅ Completed |
 | Day 5 | Memory Management —— Stack vs Heap | ✅ Completed |
-| Day 6 | String Basics & String Constant Pool (SCO) | ✅ Completed |
-| Day 7 | String Methods I (String Manipulation & Indexing) | ✅ Completed |
+| Day 6 | String Basics & String Constant Pool (SCP) | ✅ Completed |
+| Day 7 | String Methods I — Searching & Indexing | ✅ Completed |
 | Day 8 | StringMethods Part 2 (String Extraction and Sequence Validation) | ✅ Completed |
 | Day 9 | String Comparison Deep-Dive | ✅ Completed |
 | Day 10 | String Mutablity & StringBuilder + **Project day-01** | ✅ Completed |
