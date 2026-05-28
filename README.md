@@ -17,15 +17,15 @@ This repository isn’t just about learning syntax — it’s about mastering th
 | Day 2 | Variables, Data Types & Type Casting | ✅ Completed |
 | Day 3 | Input/Output —— Scanner Class | ✅ Completed |
 | Day 4 | Arithmetic Operators & Expressions | ✅ Completed |
-| Day 5 | Memory Management —— Stack vs Heap | ✅ Completed |
-| Day 6 | String Basics & String Constant Pool (SCP) | ✅ Completed |
-| Day 7 | String Methods I — Searching & Indexing | ✅ Completed |
-| Day 8 | StringMethods Part 2 (String Extraction and Sequence Validation) | ✅ Completed |
-| Day 9 | String Comparison Deep-Dive | ✅ Completed |
-| Day 10 | String Mutablity & StringBuilder + **Project day-01** | ✅ Completed |
+| Day 5 | Memory Management —— Stack vs Heap | 🟢 Processing |
+| Day 6 | String Basics & String Constant Pool (SCP) | ⏳ Pending |
+| Day 7 | String Methods I — Searching & Indexing | ⏳ Pending |
+| Day 8 | StringMethods Part 2 (String Extraction and Sequence Validation) | ⏳ Pending |
+| Day 9 | String Comparison Deep-Dive | ⏳ Pending |
+| Day 10 | String Mutablity & StringBuilder + **Project day-01** | ⏳ Pending |
 | **Phase 2** | **Logic, Control Flow, Iteration Mastery**  | |
-| Day 11 | If-Else Statements (Basic Conditional Logic) | ✅ Completed |
-| Day 12 | Logical Operators | 🟢 Processing |
+| Day 11 | If-Else Statements (Basic Conditional Logic) | ⏳ Pending |
+| Day 12 | Logical Operators | ⏳ Pending |
 | Day 13 | Ternary Operator | ⏳ Pending |
 | Day 14 | Switch Case & the Modern Java syntax "Enhanced Switch" (Java 14+). | ⏳ Pending |
 | Day 15 | Introduction to Loops: The for Loop | ⏳ Pending |
