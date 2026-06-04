@@ -17,7 +17,7 @@ This repository isn’t just about learning syntax — it’s about mastering th
 | Day 2 | Variables, Data Types & Type Casting | ✅ Completed |
 | Day 3 | Input/Output —— Scanner Class | ✅ Completed |
 | Day 4 | Arithmetic Operators & Expressions | ✅ Completed |
-| Day 5 | Memory Management —— Stack vs Heap | 🟢 Processing |
+| Day 5 | Memory Management —— Stack vs Heap | ✅ Completed |
 | Day 6 | String Basics & String Constant Pool (SCP) | ⏳ Pending |
 | Day 7 | String Methods I — Searching & Indexing | ⏳ Pending |
 | Day 8 |  String Methods II — Slicing & Checking | ⏳ Pending |
