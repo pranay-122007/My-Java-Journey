@@ -12,31 +12,25 @@ This repository isn’t just about learning syntax — it’s about mastering th
 
 | Day | Topic | Status |
 | :--- | :--- | :--- |
-| **Phase 1** | **Foundation & Memory** | |
+| **Phase 1** | **Java Environment & Foundation** | |
 | Day 1 | Introduction to Java & JVM Architecture | ✅ Completed |
 | Day 2 | Variables, Data Types & Type Casting | ✅ Completed |
 | Day 3 | Input/Output —— Scanner Class | ✅ Completed |
 | Day 4 | Arithmetic Operators & Expressions | ✅ Completed |
 | Day 5 | Memory Management —— Stack vs Heap | ✅ Completed |
-| Day 6 | String Basics & String Constant Pool (SCP) | ⏳ Pending |
-| Day 7 | String Methods I — Searching & Indexing | ⏳ Pending |
-| Day 8 |  String Methods II — Slicing & Checking | ⏳ Pending |
-| Day 9 | String Comparison Deep-Dive | ⏳ Pending |
-| Day 10 | String StringBuilder & Mutablity | ⏳ Pending |
-| PROJECT | Mini-Project-Smart Bio Generator | ⏳ Pending |
-| **Phase 2** | **Logic, Control Flow**  | |
-| Day 11 | If-Else & Logical Operators| ⏳ Pending |
-| Day 12 | Ternary Operator & Switch-Case | ⏳ Pending |
-| Day 13 | The for Loop | ⏳ Pending |
-| Day 14 | while Loop & do-while Loop | ⏳ Pending |
-| Day 15 | Nested Loops & Pattern Printing | ⏳ Pending |
-| Day 16 | Loop Control — break & continue | ⏳ Pending |
-| Day 17 | Mathematical Logic with Loops | ⏳ Pending |
-| Day 18 | Dry Run Mastery — Scope & Debugging | ⏳ Pending |
-| Day 19 | Memory: Stack Frames During Loop Execution | ⏳ Pending |
-| Day 20 | Logic Revision & Challenge Problems + | ⏳ Pending |
+| **Phase 2** | **Programming Logic & Control Flow**  | |
+| Day 06 | If-Else & Logical Operators| ⏳ Pending |
+| Day 07 | Ternary Operator & Switch-Case | ⏳ Pending |
+| Day 08 | The for Loop | ⏳ Pending |
+| Day 09 | while Loop & do-while Loop | ⏳ Pending |
+| Day 10 | Nested Loops & Pattern Printing | ⏳ Pending |
+| Day 11 | Loop Control — break & continue | ⏳ Pending |
+| Day 12 | Mathematical Logic with Loops | ⏳ Pending |
+| Day 13 | Dry Run Mastery — Scope & Debugging | ⏳ Pending |
+| Day 14 | Memory: Stack Frames During Loop Execution | ⏳ Pending |
+| Day 15 | Logic Revision & Challenge Problems + | ⏳ Pending |
 | PROJECT | Mini-project- Number Wizard Console Game | ⏳ Pending |
-| **Phase 3** | **Arrays, Searching & Sorting**  | |
+| **Phase 3** | **String**  | |
 | Day 21 | 1D Arrays — Syntax, Memory & Traversal | ⏳ Pending |
 | Day 22 | Array Operations — Min, Max, Sum & Reversal | ⏳ Pending |
 | Day 23 | Searching — Linear & Binary Search | ⏳ Pending |
